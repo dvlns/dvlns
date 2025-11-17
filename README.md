@@ -1,16 +1,43 @@
-## Hi there 👋
+<img align="right" width="300" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
-<!--
-**dvlns/dvlns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm **Davi!**
+### Backend Software Developer | Java & Spring Boot Enthusiast ☕🚀
 
-Here are some ideas to get you started:
+Passionate about backend development, clean architecture, and building robust, scalable systems.  
+I love working with modern Java ecosystems, API development, and cloud-ready applications.  
+Welcome to my GitHub, enjoy your stay! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **Tech Stack**
+### **Backend & Core**
+- **Java 8+**
+- **Spring Boot**
+- **Spring Security**
+- **RESTful API Design**
+- **Hibernate / JPA**
+- **Maven**
+
+### **Database & Storage**
+- **PostgreSQL**
+- **MySQL**
+- **JDBC**
+- **JPA/Hibernate**
+
+### **DevOps & Tools**
+- **Docker**
+- **Git & GitHub**
+- **Postman**
+- **Insomnia**
+- **IntelliJ IDEA**
+
+---
+
+## 📌 **About Me**
+- 💻 Focused on building scalable backend services  
+- 🧠 Always learning more about clean architecture, SOLID and design patterns  
+- 🐳 Comfortable working with containerized environments  
+- 📚 Constantly improving my skills to become a stronger engineer  
+
+
+✨ Thanks for visiting. Feel free to explore my repositories!
