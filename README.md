@@ -1,43 +1,29 @@
-<img align="right" width="300" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+<img align="right" width="230" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
-# 👋 Hello, I'm **Davi!**
-### Backend Software Developer | Java & Spring Boot Enthusiast ☕🚀
-
-Passionate about backend development, clean architecture, and building robust, scalable systems.  
-I love working with modern Java ecosystems, API development, and cloud-ready applications.  
-Welcome to my GitHub, enjoy your stay! 😄
+# 👋 Hi, I'm **Davi**
+### Backend Software Developer
 
 ---
 
-## 🚀 **Tech Stack**
-### **Backend & Core**
-- **Java 8+**
-- **Spring Boot**
-- **Spring Security**
-- **RESTful API Design**
-- **Hibernate / JPA**
-- **Maven**
-
-### **Database & Storage**
-- **PostgreSQL**
-- **MySQL**
-- **JDBC**
-- **JPA/Hibernate**
-
-### **DevOps & Tools**
-- **Docker**
-- **Git & GitHub**
-- **Postman**
-- **Insomnia**
-- **IntelliJ IDEA**
+## 🧰 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+</p>
 
 ---
 
-## 📌 **About Me**
-- 💻 Focused on building scalable backend services  
-- 🧠 Always learning more about clean architecture, SOLID and design patterns  
-- 🐳 Comfortable working with containerized environments  
-- 📚 Constantly improving my skills to become a stronger engineer  
+## 📬 Contact
+📧 **Email:** [davi.linsim@gmail.com](mailto:davi.linsim@gmail.com)  
+📱 **WhatsApp:** [Click to chat](https://wa.me/5582988858846)
 
+---
 
-✨ Thanks for visiting. Feel free to explore my repositories!
+Thanks for visiting 😄
